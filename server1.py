@@ -32,4 +32,7 @@ else:
         # you are connected to the wrong network, do an explicity disconnect()
         # and then reconnect.
     print('Wifi already connected, network config: %s' % repr(wlan.ifconfig()))
+    
+    
+    ##done!!!
 
